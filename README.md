@@ -123,6 +123,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## Credits
 - [InukaASiTH](https://github.com/InukaAsith)
+- [Itzgauravv](https://github.com/itzgauravv)
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
 - [Roj](https://github.com/rojserbest)
 - [Marvin](https://github.com/BlackStoneReborn)
