@@ -122,7 +122,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - [Group](https://t.me/AuraXSupport)
 
 ## Credits
-- [InukaASiTH](https://github.com/InukaAsith)
+- [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
 - [Itzgauravv](https://github.com/itzgauravv)
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
 - [Roj](https://github.com/rojserbest)
