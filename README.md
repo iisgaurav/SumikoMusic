@@ -113,7 +113,7 @@ If you don't like to play in linked channel:
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork CodentsMusic won't exist. 
-CodentsMusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
+CodentsMusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
 
 #### Contribtors
 - [iisgaurav](https://github.com/iisgaurav): Dev
