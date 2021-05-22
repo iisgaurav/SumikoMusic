@@ -5,10 +5,7 @@
 
 
 <p align="center">
-  <img src="[In reply to Gaurav™ [🇮🇳]]
-✓ YOUR FILE :- https://telegra.ph/file/82c951b83e8c3c623cdc2.jpg 
-✓ Time Taken :- 1 secs 
-✓ By :- Gaurav™ [🇮🇳]">
+  <img src="https://telegra.ph/file/82c951b83e8c3c623cdc2.jpg>
 </p>
 
 <h2> Whats new 🔥 </h2>
