@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/82c951b83e8c3c623cdc2.jpg />
+  <img src="https://telegra.ph/file/82c951b83e8c3c623cdc2.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
