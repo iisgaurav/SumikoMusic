@@ -1,11 +1,14 @@
-<h1 align="centre">CodentsMusic .0 🎵</h1>
+<h1 align="centre">CodentsMusic</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="[In reply to Gaurav™ [🇮🇳]]
+✓ YOUR FILE :- https://telegra.ph/file/82c951b83e8c3c623cdc2.jpg 
+✓ Time Taken :- 1 secs 
+✓ By :- Gaurav™ [🇮🇳]">
 </p>
 
 <h2> Whats new 🔥 </h2>
