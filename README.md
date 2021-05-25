@@ -117,13 +117,8 @@ CodentsMusic is a modified version of [Callsmusic](https://github.com/callsmusic
 
 #### Contribtors
 - [iisgaurav](https://github.com/iisgaurav): Dev
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Rojserbest](http://github.com/rojserbes): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
 - [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
+- [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
 - [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo owners](https://github.com/suprojects/CallsMusic)
