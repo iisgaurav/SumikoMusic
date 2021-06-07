@@ -17,6 +17,7 @@
 
 import json
 import os
+from os import path
 from typing import Callable
 
 import aiofiles
@@ -47,8 +48,10 @@ from CodentsMusic.services.callsmusic.callsmusic import client as USER
 from CodentsMusic.services.converter.converter import convert
 from CodentsMusic.services.downloaders import youtube
 
+
+aiohttpsession = aiohttp.ClientSession()
 chat_id = None
-arq = ARQ("https://thearq.tech", ARQ_API_KEY)
+arq = ARQ("https://thearq.tech", ARQ_API_KEY, aiohttpsession)
 
 
 def cb_admin_check(func: Callable) -> Callable:
