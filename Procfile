@@ -1,1 +1,1 @@
-worker: python3 -m CondentsMusic
+worker: python3 -m CodentsMusic
