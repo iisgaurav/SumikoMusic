@@ -1,0 +1,11 @@
+---
+application:
+  name: "sumikomusic"
+  project: "music"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-sumikomusic"
+  routes:
+  - application_name: "sumikomusic"
+    paths:
+    - "/*"
