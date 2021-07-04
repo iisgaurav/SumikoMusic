@@ -1,5 +1,3 @@
-# DON'T DEPLOY 
-
 <h1 align="centre">CodentsMusic</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
