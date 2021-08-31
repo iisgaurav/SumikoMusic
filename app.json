@@ -1,8 +1,10 @@
 {
-  "name": "CodentsMusic",
+  "name": "SumikoMusic",
+  "logo": "https://telegra.ph/file/5f3177b9e24763db285d5.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/PyCodents/CodentsMusic",
+  "repository": "https://github.com/iisgaurav/SumikoMusic",
+  "stack": "heroku-20",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -10,14 +12,14 @@
    {
      "url": "heroku/python"
    }   
-  ],
+  ],        
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram session string",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your bot token from @BotFather",
+      "description": "A bot token from @BotFather",
       "required": true
     },
     "BOT_USERNAME": {
@@ -32,12 +34,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "PyCodentsSupport"
+      "value": "VCSupport"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "CodentsMusic "
+      "value": "SumikoMusic"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -46,22 +48,27 @@
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ"
+      "value": ""
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://telegra.ph/file/3f9df13f368b80eaf6859.png"
+      "value": " https://telegra.ph/file/dcfdf612e499eef0e0b1f.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "PyCodents"
+      "value": "VCBots"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
       "required": true
     },
+    "PMPERMIT": {
+      "description": "Change to turn off",
+      "required": false,
+      "value": "ENABLE"
+    },    
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": true
@@ -73,7 +80,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "15"
+      "value": "20"
     }
   }
 }
