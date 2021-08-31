@@ -25,7 +25,7 @@ from SumikoMusic.config import BOT_TOKEN
 from SumikoMusic.services.callsmusic import run
 
 response = requests.get(BG_IMAGE)
-file = open("./etc/foreground.png", "wb")
+file = open("./Resources/foreground.png", "wb")
 file.write(response.content)
 file.close()
 
