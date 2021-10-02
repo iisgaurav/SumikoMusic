@@ -117,8 +117,8 @@ SumikoMusic is a modified version of [Callsmusic](https://github.com/callsmusic/
 
 #### Contribtors
 - [iisgaurav](https://github.com/iisgaurav): Dev
-- [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
-- [SumikoMusic](https://github.com/TeamOfDaisyX/SumikoMusic)
+- [AuraXMusicBot](https://github.com/AuraXNetwork/AuraXMusicBot)
+- [DaisyXMusic](https://github.com/TeamOfDaisyX/DaisyXMusic)
 - [Hamker Cat](https://github.com/thehamkercat/)
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo owners](https://github.com/suprojects/CallsMusic)
